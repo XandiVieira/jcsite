@@ -1,0 +1,114 @@
+.navjc{
+	margin: auto;
+	display: inline-block;
+	height: 4.625em;
+	padding-left: 2em;
+	padding: 0.3em;
+}
+
+.iconnav{
+	float: left;
+	padding: 0.3em 3em;
+}
+
+.navbarjc{
+	display: inline-block;
+	overflow: hidden;
+	position: absolute;
+	justify-content: center;
+  	left: 50%;
+  	transform: translate(-50%);
+}
+
+.navitem{
+	display: inline-block;
+	font-family: 'Montserrat';
+	font-weight: 700;
+	color: #3D3D3D;
+}
+
+.navitem a{
+	padding: 0.25em;
+	text-decoration: none;
+}
+
+.navitem a:hover{
+	color: #EC4011;
+}
+
+.navitens{
+	display: inline-block;
+	text-align: center !important;
+	justify-content: center !important;
+}
+
+.jc-icon{
+	width: 8.75em;
+	height: 3.5em;
+	display: inline-block;
+}
+
+/*
+	Nav-Mídia CSS Style
+ */
+section.color_nav-midia{
+	background-color: #F8F8F8;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	width: 100%;
+	overflow: hidden;
+}
+
+section.nav-midia{
+	padding: 0.375em;
+	margin: 0 auto;
+	height: 1.875em;
+	align-content: center;
+  	text-align: center;
+}
+
+section.nav-midia a{
+	align-content: center;
+}
+
+.facebook-icon {
+	display: inline-block;
+	background: url(files/facebook-icon.svg);
+	width: 1.5em;
+	height: 1em;
+	background-size: 1.5em 1em;
+}
+
+.instagram-icon {
+	display: inline-block;
+	background: url(files/instagran-icon.svg);
+	width: 1.5em;
+	height: 1em;
+	background-size: 1.5em 1em;
+}
+
+.whatsapp-icon {
+	display: inline-block;
+	background: url(files/whatsapp-icon.svg);
+	width: 1.5em;
+	height: 1em;
+	background-size: 1.5em 1em;
+}
+
+.youtube-icon {
+	display: inline-block;
+	background: url(files/youtube-icon.svg);
+	width: 1.5em;
+	height: 1em;
+	background-size: 1.5em 1em;
+}
+
+.twitter-icon {
+	display: inline-block;
+	background: url(files/twitter-icon.svg);
+	width: 1.5em;
+	height: 1em;
+	background-size: 1.5em 1em;
+}
+
+
